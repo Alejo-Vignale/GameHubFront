@@ -28,7 +28,7 @@ function Header() {
       </div>
       <div className="headerEffect">
         <video
-          src="./src/assets/Home_vid_def.mp4"
+          src="src/assets/Home_vid_def.mp4"
           autoPlay={true}
           muted={true}
           loop={true}
